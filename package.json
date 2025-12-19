@@ -10,7 +10,11 @@
   },
   "categories": [
     "AI",
-    "Chat"
+    "Chat",
+    "Education",
+    "Programming Languages",
+    "Snippets",
+    "Testing"
   ],
   "activationEvents": [
     "onStartupFinished"
@@ -98,10 +102,18 @@
     "@types/vscode": "^1.96.0"
   },
   "keywords": [
+    "agent",
     "ai",
-    "chat",
+    "autonomous",
+    "chatgpt",
+    "claude",
     "gemini",
-    "conversation"
+    "coding",
+    "dev",
+    "keybindings",
+    "mcp",
+    "lim code",
+    "limcode"
   ],
   "author": "Limerence",
   "license": "ISC",
